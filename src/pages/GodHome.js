@@ -7,6 +7,12 @@ const GodHome = () => {
         <>
             <Container className='mt-5 text-danger'>
                 <h1>hello worlds</h1>
+                <h1>hello worlds</h1>
+                <h1>hello worlds</h1>
+                <h1>hello worlds</h1>
+                <h1>hello worlds</h1>
+                <h1>hello worlds</h1>
+                <h1>hello worlds</h1>
             </Container>
         </>
     )
